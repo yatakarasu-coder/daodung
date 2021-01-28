@@ -16,9 +16,9 @@ table,th,td {border:1px solid black;}
 				<td>
 						<ul>
 				
-							<li><a href="in4" target="center">thông tin cá nhân</a></li>
-							<li><a href="game2048" target="center">code c++ : game 2048</a></li>
-							<li><a href="save" target="center">tài liệu học HTML</a></li>
+							<li><a href="in4.html" target="center">thông tin cá nhân</a></li>
+							<li><a href="game2048.html" target="center">code c++ : game 2048</a></li>
+							<li><a href="save.html" target="center">tài liệu học HTML</a></li>
 
 						</ul>
 				</td>
