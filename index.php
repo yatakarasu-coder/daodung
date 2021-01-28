@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Personal Information</title>
+	<title>Đào Mạnh Dũng</title>
 	<meta charset="utf-8"/>
 </head>
 <body style="background-color: #a1d3d6; background-image: url(https://www.pbs.org/wgbh/nova/media/images/bfcppfu.width-800.png);background-repeat: no-repeat; background-size: cover; color: white">
@@ -12,17 +12,12 @@
 	<h2 style="color: #ff3d40;font-size: 40px;text-align: center;text-decoration-style: bold;">ABOUT ME</h2>
 <p style="text-align: center;font-family: Arial;font-size: 30px">Name: ĐÀO MẠNH DŨNG</p>
 <p style="text-align: center;font-family: Arial;font-size: 30px">Age: 18</p>
-<p style="text-align: center;font-family: Arial;font-size: 30px">Student of Post National University of Civil Engineering</p>
+<p style="text-align: center;font-family: Arial;font-size: 30px">Student of National University of Civil Engineering</p>
 <p style="text-align: center;font-family: Arial;font-size: 30px">Profession: Software Engineer</p>
 <p style="text-align: center;font-family: Arial;font-size: 30px">E-Address: dung47765@nuce.edu.vn</p>
 <p style="text-align: center;font-family: Arial;font-size: 30px">Address: VĨNH PHÚC</p>
 <a href="https://www.facebook.com/include.daodung/" target="center" style="color: yellow"><p style="text-align: center;font-family: Arial;color: red;font-size: 35px">Visit my Facebook personal page!</a></p>
 <p style="text-align: center;font-family: Arial;font-size: 15px">&#128151 &#128151 &#128151</p>
-
-
-
-
-
 
 </body>
 </html>
