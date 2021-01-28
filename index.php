@@ -16,8 +16,6 @@
 <p style="text-align: center;font-family: Arial;font-size: 30px">Profession: Software Engineer</p>
 <p style="text-align: center;font-family: Arial;font-size: 30px">E-Address: dung47765@nuce.edu.vn</p>
 <p style="text-align: center;font-family: Arial;font-size: 30px">Address: VĨNH PHÚC</p>
-<a href="https://www.facebook.com/include.daodung/" target="center" style="color: yellow"><p style="text-align: center;font-family: Arial;color: red;font-size: 35px">Visit my Facebook personal page!</a></p>
-<p style="text-align: center;font-family: Arial;font-size: 15px">&#128151 &#128151 &#128151</p>
-
+<a href="https://www.facebook.com/include.daodung/" target="center" style="color: yellow"><p style="text-align: center;font-family: Arial;color: red;font-size: 35px">Visit my Facebook personal page!</a><p>
 </body>
 </html>
